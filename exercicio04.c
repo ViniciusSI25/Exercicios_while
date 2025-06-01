@@ -17,7 +17,7 @@ int main() {
     if (divisor > 0)
         printf("Media = %.2f\n", soma / divisor);
     else
-        printf("Nenhuma nota valida foi digitada.\n");
+        printf("Não foi digitado uma nota válida.\n");
 
     return 0;
 }
